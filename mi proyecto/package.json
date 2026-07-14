@@ -1,7 +1,0 @@
-{
-  "name": "teknova",
-  "private": true,
-  "dependencies": {
-    "@netlify/blobs": "^8.0.0"
-  }
-}
